@@ -5,6 +5,7 @@ Kara Newell is an avid learner and self-starter specializing in data analytics. 
 ### Areas of Interest
 - Edtech
 - Fintech
-- Travel 
+- Travel
+- Pet Services
 - Government Sector
 - Non Profit
