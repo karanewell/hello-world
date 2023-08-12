@@ -9,6 +9,6 @@ Kara Newell is an avid learner and self-starter specializing in data analytics a
 - Pet Services
 - Government Sector
 - Non Profit
-- 
+  
 
 *Created within the GitHub interface using the instructions located at: https://docs.github.com/en/get-started/quickstart/hello-world*
